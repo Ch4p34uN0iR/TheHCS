@@ -11,7 +11,7 @@ This cheat sheet aims to be a repository of tools descriptions and public availa
 
 ## Hall of Fame
 
-* Nitescu Lucian / https://www.facebook.com/nitescu.lucian / https://www.paypal.me/LNitescu
+* Nitescu Lucian / https://www.facebook.com/nitescu.lucian 
 
 
 ## This project is under GNU Lesser General Public License v3 (LGPL-3.0) and it's currently under development.
