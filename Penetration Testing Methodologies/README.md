@@ -1,2 +1,2 @@
 # TheHCS
-The cheat sheet for hackers by Norvium
+To be continued..
