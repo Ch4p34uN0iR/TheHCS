@@ -5,4 +5,3 @@ Maltego CE is the community version of Maltego that is available for free after 
 
 ### Source:
 * https://www.paterva.com/
-* http://tools.kali.org/information-gathering/golismero
