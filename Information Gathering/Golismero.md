@@ -3,7 +3,7 @@
 
 GoLismero is a free software framework for security testing. It's currently geared towards web security, but it can easily be expanded to other kinds of scans. It can run their own security tests and manage a lot of well known security tools (OpenVas, Wfuzz, SQLMap, DNS recon, robot analyzer...) take their results, feedback to the rest of tools and merge all of results. And all of this automatically.
 
-'''
+```
 
 /----------------------------------------------\
 | GoLismero 2.0.0b3 - The Web Knife            |
@@ -70,7 +70,7 @@ examples:
   dump the database from a previous scan:
     golismero.py dump -db example.db -o dump.sql
 
-'''
+```
 
 ### Source:
 * http://www.golismero.com/
