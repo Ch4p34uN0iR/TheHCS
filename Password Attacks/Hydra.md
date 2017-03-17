@@ -1,5 +1,5 @@
 # Hydra
-## TheHCS / @unKn0wnH4ck3r / https://www.thc.org/thc-hydra//
+## TheHCS / @unKn0wnH4ck3r / https://www.thc.org/thc-hydra/ /
 
 When you need to brute force crack a remote authentication service, Hydra is often the tool of choice. It can perform rapid dictionary attacks against more than 50 protocols, including telnet, ftp, http, https, smb, several databases, and much more.
 
