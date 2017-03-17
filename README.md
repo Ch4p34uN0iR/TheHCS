@@ -6,12 +6,12 @@ This cheat sheet aims to be a repository of tools descriptions and public availa
 ## Contribute
 
 * Post issues you have with the information available here.
-* Write your own articles
-* Buy me and to the team a beer at https://www.paypal.me/LNitescu.
+* Write your own articles as a fork and also respect the model.
 
 ## Hall of Fame
 
-* Nitescu Lucian / https://www.facebook.com/nitescu.lucian
+* Nitescu Lucian
+* unKn0wnH4ck3r
 
 
 ## This project is under GNU Lesser General Public License v3 (LGPL-3.0) and it's currently under development.
